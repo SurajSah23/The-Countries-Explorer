@@ -9,7 +9,7 @@
 1. **Setup Instructions:**
    - Clone the repository:
      ```bash
-     git clone https://github.com/SurajSah23/The-Country-Explorer.git
+     git clone https://github.com/SurajSah23/The-Countries-Explorer.git
      cd The-Country-Explorer
      ```
    - Install Dependencies:
