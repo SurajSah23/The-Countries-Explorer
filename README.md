@@ -22,11 +22,11 @@
      ```
      
 2. Design Decisions:
-- **Easy to Read:** Used Arial font for clarity.
-- **Flexible Layout:** Used Flexbox so cards fit well on different screens.
-- **Country Cards:** Each country has its own card for easy viewing.
-- **Favorite Icon:** Clickable heart icon that turns red for favorites.
-- **Scroll Favorites:** Favorites are in a row and can scroll if too many.
+Font and Colors: Uses Roboto font; light background with dark text for readability.
+Layout: Flexbox for neat arrangement; cards stack on small screens.
+Inputs and Buttons: Inputs have soft edges; buttons change color and size on hover.
+Country Cards: Cards look nice with shadows; they lift when hovered.
+Favorites: Icons change color when selected.
 
 --- 
 
