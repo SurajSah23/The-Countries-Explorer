@@ -2,7 +2,7 @@
 ---
 
 **GitHub Repository:**  
-[Country Explorer Repository](https://github.com/SurajSah23/The-Country-Explorer)
+[Country Explorer Repository](https://github.com/SurajSah23/The-Countries-Explorer)
 
 **README Content:**
 
