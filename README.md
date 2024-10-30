@@ -36,7 +36,7 @@
      - Brave: Fully functional with no issues.
 
 4. **Time Estimate:**
-   - I spent approximately six hours on this project.
+   - I spent approximately 10 hours on this project.
 
 5. **Profile Link:**
    - You can learn more about me here: [LinkedIn Profile](https://www.linkedin.com/in/suraj-sah-b350a42b9/)
