@@ -10,8 +10,6 @@
 - **Usability**: Hover effects and sticky headers enhance navigation.
 - **CSS Structure**: General styles, component styles, then media queries keep CSS organized.
 
-3. **Check Results**: all tests pass.
-
 #### Browser Support
 - **Supported**: Works on Chrome, brave.
 - **Responsive**: Tested on mobile and desktop.
