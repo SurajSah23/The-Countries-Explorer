@@ -7,7 +7,6 @@
 - **Responsiveness**: Media queries adjust the layout for desktop and mobile.
 - **Accessibility**: Semantic HTML improves screen reader support.
 - **Performance**: Fixed image sizes and smooth transitions prevent layout shifts.
-- **Usability**: Hover effects and sticky headers enhance navigation.
 - **CSS Structure**: General styles, component styles, then media queries keep CSS organized.
 
 #### Browser Support
